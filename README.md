@@ -10,13 +10,6 @@ Basic Cancer Checker is an Android application built using Kotlin that allows us
 - **History**: View a history of previous skin checks with the results.
 - **News Articles**: Stay updated with the latest news articles related to skin health. Articles can be viewed and clicked for more details using the [News API](https://newsapi.org/).
 
-## Screenshots
-
-![Home Screen](screenshots/home_screen.png)
-![Skin Check Screen](screenshots/skin_check_screen.png)
-![History Screen](screenshots/history_screen.png)
-![News Screen](screenshots/news_screen.png)
-
 ## Installation
 
 To run this project, follow these steps:
