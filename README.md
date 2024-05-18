@@ -56,9 +56,9 @@ To run this project, follow these steps:
 
 ### Project Structure
 
-- `api` - Contains the Retrofit API service for fetching news articles.
+- `retrofit` - Contains the Retrofit API service for fetching news articles.
 - `database` - Contains the Room database and DAO interfaces.
-- `ui` - Contains the UI components like Activities, Fragments, and ViewModels.
+- `view` - Contains the UI components like Activities, Fragments, and ViewModels.
 - `helper` - Utility classes and helper functions.
 
 ### Contributing
