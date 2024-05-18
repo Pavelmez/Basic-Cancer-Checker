@@ -16,8 +16,8 @@ To run this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/skin-cancer-detector.git
-   cd skin-cancer-detector
+   git clone https://github.com/Pavelmez/Basic-Cancer-Checker.git
+   cd Basic-Cancer-Checker
    ```
 
 2. **Open in Android Studio**: Open the project in Android Studio.
